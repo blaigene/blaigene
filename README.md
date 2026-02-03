@@ -1,6 +1,6 @@
 # Hi, I'm Blai Gené Mora 👋
 
-I am a senior **Computer Engineering** student with a deep interest in **Artificial Intelligence**. My focus lies at the intersection of Multi-Agent Systems, Distributed Coordination, and Advanced Machine Learning.
+I am a senior **Computer Engineering** student with a deep interest in **Artificial Intelligence**. My focus lies at the intersection of Advanced Machine Learning, Deep Learning, Multi-Agent Systems and Distributed Coordination.
 
 ### 🛠 Technical Toolkit
 
