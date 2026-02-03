@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Blai Gené Mora 👋
 
-<!--
-**blaigene/blaigene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior **Computer Engineering** student with a deep interest in **Artificial Intelligence**. My focus lies at the intersection of Multi-Agent Systems, Distributed Coordination, and Advanced Machine Learning.
 
-Here are some ideas to get you started:
+### 🛠 Technical Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Artificial Intelligence:** Machine Learning (Scikit-learn), Deep Learning (PyTorch, TensorFlow), Neural Networks, and Reinforcement Learning basics.
+* **Simulation & Agents:** NetLogo (Multi-Agent Modeling), Iterative Negotiation Protocols, Game Theory.
+* **Algorithms & Logic:** Pathfinding (Dijkstra, A*), Spatial Conflict Resolution, Data Structures.
+* **Languages & Dev:** Python (NumPy, Pandas), Java, C++, SQL, Git.
+
+### 🔬 Featured Project
+**[Distributed AI: Crowd Dynamics Simulation](https://github.com/blaigene/Distributed-AI-Crowd-Dynamics)** *Developed at Università degli Studi di Modena e Reggio Emilia (UNIMORE)* A high-density evacuation simulator that implements an iterative negotiation and reservation protocol to resolve spatial conflicts among autonomous agents without central control.
+
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/blaigene](http://www.linkedin.com/in/blaigene)
+* **Email:** [genemorablai@gmail.com](mailto:genemorablai@gmail.com)
