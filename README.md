@@ -14,7 +14,6 @@ I am a senior **Computer Engineering** student with a deep interest in **Artific
 **[Autonomous Production Optimization (Deep RL)](https://github.com/blaigene/Deep-RL-Production-Optimization)** *Developed at Università degli Studi di Modena e Reggio Emilia (UNIMORE)* An industrial optimization system using **PPO and DQN** agents to manage job releases in stochastic manufacturing environments. Accomplished a **55% reduction in tardiness** and **20% WIP reduction** by wrapping **SimPy** discrete-event simulations into custom **Gymnasium** environments.
 
 **[Distributed AI: Crowd Dynamics Simulation](https://github.com/blaigene/Distributed-AI-Crowd-Dynamics)** *Developed at Università degli Studi di Modena e Reggio Emilia (UNIMORE)* A high-density evacuation simulator that implements an iterative negotiation and reservation protocol to resolve spatial conflicts among autonomous agents without central control.
-### 🚀 Featured Projects
 
 ---
 
