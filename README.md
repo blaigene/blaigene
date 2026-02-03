@@ -9,7 +9,7 @@ I am a senior **Computer Engineering** student with a deep interest in **Artific
 * **Algorithms & Logic:** Pathfinding (Dijkstra, A*), Spatial Conflict Resolution, Data Structures.
 * **Languages & Dev:** Python (NumPy, Pandas), Java, C++, SQL, Git.
 
-### 🔬 Featured Project
+### 🔬 Featured Projects
 
 **[Distributed AI: Crowd Dynamics Simulation (MAS)](https://github.com/blaigene/Distributed-AI-Crowd-Dynamics)** *Developed at Università degli Studi di Modena e Reggio Emilia (UNIMORE)* A high-density evacuation simulator that implements an **iterative negotiation and reservation** protocol to **resolve spatial conflicts** among **autonomous agents** without central control.
 
