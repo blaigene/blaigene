@@ -1,19 +1,36 @@
 # Hi, I'm Blai Gené Mora 👋
 
-I am a senior **Computer Engineering** student with a deep interest in **Artificial Intelligence**. My focus lies at the intersection of Advanced Machine Learning, Deep Learning, Multi-Agent Systems and Distributed Coordination.
+I am an **AI Engineering Intern** and senior **Computer Engineering** student focused on building intelligent, autonomous systems. My expertise lies at the intersection of **Computer Vision**, **Multi-Agent Systems (MAS)**, and **Edge Computing**, with a proven track record of deploying complex AI architectures on restricted robotic hardware.
 
-### 🛠 Technical Toolkit
+### 🚀 Current Focus
+I am currently an **AI Engineering Intern at Group Saltó (Innovation Dept)**, where I am leading the development of a state-of-the-art perception system for assistive robotics.
 
-* **Artificial Intelligence:** Machine Learning (Scikit-learn), Deep Learning (PyTorch, TensorFlow), Neural Networks, and Reinforcement Learning basics.
-* **Simulation & Agents:** NetLogo (Multi-Agent Modeling), Iterative Negotiation Protocols, Game Theory.
-* **Algorithms & Logic:** Pathfinding (Dijkstra, A*), Spatial Conflict Resolution, Data Structures.
-* **Languages & Dev:** Python (NumPy, Pandas), Java, C++, SQL, Git.
+---
 
 ### 🔬 Featured Projects
 
-**[Distributed AI: Crowd Dynamics Simulation (MAS)](https://github.com/blaigene/Distributed-AI-Crowd-Dynamics)** *Developed at Università degli Studi di Modena e Reggio Emilia (UNIMORE)* A high-density evacuation simulator that implements an **iterative negotiation and reservation** protocol to **resolve spatial conflicts** among **autonomous agents** without central control.
+**[Autonomous Multi-Agent Vision Architecture (CrewAI)](https://github.com/blaigene/temi-crewai-vision-orchestrator)**
+*Developed at Group Saltó Innovation Dept.*
+A proactive fall prevention system for the **Temi Robot**. I designed a **dynamic orchestrator using CrewAI** that manages a fleet of specialized agents (**YOLOv8-Seg**, **SegFormer**, and **Moondream VLM**) to identify domestic hazards. 
+* **Key Achievement:** Successfully optimized high-parameter Vision-Language Models (VLM) to run on restricted **Edge AI** hardware using asymmetric resolution and event-driven logic.
 
-**[Autonomous Production Optimization (Deep RL)](https://github.com/blaigene/Deep-RL-Production-Optimization)** *Developed at Università degli Studi di Modena e Reggio Emilia (UNIMORE)* An industrial optimization system using **PPO and DQN** agents to manage job releases in stochastic manufacturing environments. Accomplished a 55% reduction in tardiness and 20% WIP reduction by wrapping **SimPy** discrete-event simulations into custom **Gymnasium** environments.
+**[Distributed AI: Crowd Dynamics Simulation (MAS)](https://github.com/blaigene/Distributed-AI-Crowd-Dynamics)**
+*Developed at Università degli Studi di Modena e Reggio Emilia (UNIMORE)*
+A high-density evacuation simulator implementing an **iterative negotiation and reservation protocol**. It resolves spatial conflicts among autonomous agents in decentralized environments without any central control.
+
+**[Autonomous Production Optimization (Deep RL)](https://github.com/blaigene/Deep-RL-Production-Optimization)**
+*Developed at UNIMORE*
+An industrial optimization system using **PPO and DQN** agents to manage job releases. Achieved a **55% reduction in tardiness** by wrapping SimPy discrete-event simulations into custom **Gymnasium** environments.
+
+---
+
+### 🛠 Technical Toolkit
+
+* **Core AI & Vision:** Computer Vision (OpenCV), Instance Segmentation (YOLOv8), Semantic Segmentation (SegFormer), Vision-Language Models (Moondream2).
+* **Agentic Frameworks:** CrewAI (Multi-Agent Orchestration), Distributed Coordination, Iterative Negotiation Protocols.
+* **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Reinforcement Learning (PPO, DQN, Gymnasium).
+* **Robotics & Edge:** ROS2, Edge AI Optimization, Linux (Ubuntu), Git/GitHub, Azure DevOps.
+* **Languages:** Python (Advanced: NumPy, Pandas, FastAPI), C++, Java, SQL.
 
 ---
 
