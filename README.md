@@ -14,12 +14,17 @@ I am currently an **AI Engineering Intern at Group Saltó (Innovation Dept)**, w
 A proactive fall prevention system for the **Temi Robot**. I designed a **dynamic orchestrator using CrewAI** that manages a fleet of specialized agents (**YOLOv8-Seg**, **SegFormer**, and **Moondream VLM**) to identify domestic hazards. 
 * **Key Achievement:** Successfully optimized high-parameter Vision-Language Models (VLM) to run on restricted **Edge AI** hardware using asymmetric resolution and event-driven logic.
 
+**[Sentinel Brain: Autonomous Mission Control (ROS2)](https://github.com/blaigene/ros2-sentinel-brain)**
+*Developed at Escola Politècnica Superior (UdL)*
+A robust **Robotic Cognition infrastructure** for autonomous inspection. This system manages the state-machine and mission logic required to deploy AI models in industrial environments, handling battery-constrained path execution and asynchronous task dispatching.
+* **Key Achievement:** Bridged the gap between low-level control and high-level AI by implementing a **thread-safe, event-driven architecture** capable of pausing/resuming missions based on real-time telemetry.
+
 **[Distributed AI: Crowd Dynamics Simulation (MAS)](https://github.com/blaigene/Distributed-AI-Crowd-Dynamics)**
 *Developed at Università degli Studi di Modena e Reggio Emilia (UNIMORE)*
 A high-density evacuation simulator implementing an **iterative negotiation and reservation protocol**. It resolves spatial conflicts among autonomous agents in decentralized environments without any central control.
 
 **[Autonomous Production Optimization (Deep RL)](https://github.com/blaigene/Deep-RL-Production-Optimization)**
-*Developed at UNIMORE*
+*Developed at Università degli Studi di Modena e Reggio Emilia (UNIMORE)*
 An industrial optimization system using **PPO and DQN** agents to manage job releases. Achieved a **55% reduction in tardiness** by wrapping SimPy discrete-event simulations into custom **Gymnasium** environments.
 
 ---
