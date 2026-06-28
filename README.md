@@ -1,9 +1,9 @@
 # Hi, I'm Blai Gené Mora 👋
 
-I am an **AI Engineering Intern** and senior **Computer Engineering** student focused on building intelligent, autonomous systems. My expertise lies at the intersection of **Computer Vision**, **Multi-Agent Systems (MAS)**, and **Edge Computing**, with a proven track record of deploying complex AI architectures on restricted robotic hardware.
+I am a **Computer Engineer** focused on building intelligent, autonomous systems. My expertise lies at the intersection of **Computer Vision**, **Multi-Agent Systems (MAS)**, and **Edge Computing**, with a proven track record of deploying complex AI architectures on restricted robotic hardware.
 
-### 🚀 Current Focus
-I am currently an **AI Engineering Intern at Group Saltó (Innovation Dept)**, where I am leading the development of a state-of-the-art perception system for assistive robotics.
+### 🚀 Recent Work
+I recently completed my Bachelor's Degree in Computer Engineering. For my final project, developed in collaboration with **Group Saltó (Innovation Dept)**, I successfully built a state-of-the-art multi-agent perception system for assistive robotics. I am now looking forward to my next challenges and continuing my academic and professional journey in the Artificial Intelligence field.
 
 ---
 
