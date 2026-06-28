@@ -9,7 +9,7 @@ I recently completed my Bachelor's Degree in Computer Engineering. For my final 
 
 ### 🔬 Featured Projects
 
-**[Autonomous Multi-Agent Vision Architecture (CrewAI)](https://github.com/blaigene/temi-crewai-vision-orchestrator)**
+**[Autonomous Multi-Agent Vision Architecture (https://github.com/blaigene/Proactive-Fall-Prevention-AI-Robotics)**
 *Developed at Group Saltó Innovation Dept.*
 A proactive fall prevention system for the **Temi Robot**. I designed a **dynamic orchestrator using CrewAI** that manages a fleet of specialized agents (**YOLOv8-Seg**, **SegFormer**, and **Moondream VLM**) to identify domestic hazards. 
 * **Key Achievement:** Successfully optimized high-parameter Vision-Language Models (VLM) to run on restricted **Edge AI** hardware using asymmetric resolution and event-driven logic.
