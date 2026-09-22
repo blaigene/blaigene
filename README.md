@@ -1,6 +1,6 @@
 # Hi, I'm Blai Gené Mora 👋
 
-I am an **AI / ML Engineer** with a solid background in **Computer Engineering**, focused on building intelligent, autonomous systems. My expertise lies at the intersection of **Computer Vision**, **Multi-Agent Systems (MAS)**, and **Edge Computing**, with a proven track record of deploying complex AI architectures on restricted robotic hardware.
+I am an **AI / ML Engineer** with a solid background in **Computer Engineering**, focused on building intelligent, autonomous systems. My expertise lies at the intersection of **Machine Learning**, **Multi-Agent Systems (MAS)**, and **Edge Computing**, with a proven track record of deploying complex AI architectures on restricted robotic hardware.
 
 ### 🚀 Current & Recent Work
 I am currently pursuing a **Master's Degree in Artificial Intelligence at La Salle - Universitat Ramon Llull** to further deepen my expertise in advanced machine learning architectures and intelligent systems.
